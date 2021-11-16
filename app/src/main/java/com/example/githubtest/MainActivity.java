@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
     //Helloo
     //Hello helloo
-    // hello from virthiya
+    // hello from joshua & virthiya
     // hello virthiya~~
 }
